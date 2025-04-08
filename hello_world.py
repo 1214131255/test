@@ -6,6 +6,4 @@ print(os.path.dirname(__file__))
 print("hello world")
 print("hello world")
 print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
+
